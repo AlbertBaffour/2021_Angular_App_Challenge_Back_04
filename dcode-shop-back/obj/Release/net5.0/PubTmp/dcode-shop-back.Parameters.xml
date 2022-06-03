@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="dcode-shop-back-api" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\jorne\\Documents\\EverythingSchool\\Angular\\Projects\\dcodebackend\\2021_Angular_App_Challenge_Back_04\\dcode-shop-back\\dcode-shop-back\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
